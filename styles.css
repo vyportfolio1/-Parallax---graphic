@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p{
+    font-size: 15px;
+    font-family: "Montserrat", sans-serif;
+    color: #0A0A0A;
+}
+
+
+h1{
+    font-size: 25px; 
+    font-family: "Croissant One", serif;
+    font-weight: bold;
+    color: #0A0A0A;
+}
+
+.mon{
+    font-family: "Poppins", sans-serif;
+}
+
+.cross{
+    font-family: "Croissant One", serif;
+}
